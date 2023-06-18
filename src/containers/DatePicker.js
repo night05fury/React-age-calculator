@@ -53,11 +53,9 @@ import './DatePicker.css';
         <div class="row">
             <div class="col-md-12 ">
                 <p>
-                    Developed by <a target="_blank" href="https://sites.google.com/view/porfoliomaharoz/home">Maharoz Alam</a> (<a target="_blank" href="https://sites.google.com/view/porfoliomaharoz/home">Mugdho)</a>
+                    Developed by <a rel="noopener noreferrer" target="_blank" href="https://portfolio-mkp.netlify.app/">Mayank Kumar Patel</a>
                 </p>
-                <p>
-                    <a target="_blank" href="https://github.com/Maharoz/React-age-calculator">Get Source Code</a>
-                </p>
+               
             </div>
             <div class="col-md-6 text-right">
                 {/* <p>
